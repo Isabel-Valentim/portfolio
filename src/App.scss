@@ -1,0 +1,13 @@
+$primary-color1: #fff;
+
+@import 'animate.css';
+
+
+@font-face {
+  font-family:'OpenSans-VariableFont';
+  src: url('.assets\fonts\OpenSans-VariableFont_wdth,wght.ttf') format('ttf');
+}
+
+Body{
+  font-family: 'OpenSans-VariableFont', sans-serif;
+}
